@@ -1,0 +1,19 @@
+{
+  "name": "react-ssr",
+  "version": "1.0.0",
+  "description": "a react server rendering project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuyuanzz/react-ssr.git"
+  },
+  "author": "sean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuyuanzz/react-ssr/issues"
+  },
+  "homepage": "https://github.com/shuyuanzz/react-ssr#readme"
+}
